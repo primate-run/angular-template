@@ -70,7 +70,7 @@ node build/server.js
 deno run -A build/server.js
 
 # Bun
-bun run build/server.js
+bun build/server.js
 ```
 
 ## Documentation
