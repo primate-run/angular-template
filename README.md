@@ -1,4 +1,4 @@
-# Primate Angular app template
+# Primate Angular template
 
 ## Install
 
