@@ -1,0 +1,1 @@
+{"version":3,"file":"UndefinedType.js","sourceRoot":"","sources":["../../src/private/UndefinedType.ts"],"names":[],"mappings":"AAAA,OAAO,aAAa,MAAM,gBAAgB,CAAC;AAI3C,MAAM,CAAC,OAAO,OAAO,aAAc,SAAQ,aAA8B;IACvE,IAAI,IAAI;QACN,OAAO,WAAoB,CAAC;IAC9B,CAAC;IAED,MAAM;QACJ,OAAO;YACL,IAAI,EAAE,IAAI,CAAC,IAAI;SAChB,CAAC;IACJ,CAAC;CACF"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"StoreSchema.d.ts","sourceRoot":"","sources":["../../src/private/StoreSchema.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,QAAQ,MAAM,WAAW,CAAC;AACtC,OAAO,KAAK,EAAE,IAAI,EAAE,MAAM,eAAe,CAAC;AAE1C,KAAK,WAAW,GAAG,IAAI,CAAC,QAAQ,CAAC,CAAC;AAElC,YAAY,EAAE,WAAW,IAAI,OAAO,EAAE,CAAC"}

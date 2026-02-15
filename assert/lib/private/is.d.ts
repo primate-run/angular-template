@@ -1,0 +1,37 @@
+import type { Newable } from "@rcompat/type";
+declare const _default: {
+    bigint: (x: unknown, error?: Error | string) => bigint;
+    boolean: (x: unknown, error?: Error | string) => boolean;
+    function: (x: unknown, error?: Error | string) => import("@rcompat/type").UnknownFunction;
+    number: (x: unknown, error?: Error | string) => number;
+    string: (x: unknown, error?: Error | string) => string;
+    symbol: (x: unknown, error?: Error | string) => symbol;
+    undefined: (x: unknown, error?: Error | string) => undefined;
+    array: (x: unknown, error?: Error | string) => unknown[];
+    date: (x: unknown, error?: Error | string) => Date;
+    dict: <U>(x: U, error?: Error | string) => U extends import("@rcompat/type").Dict ? U : import("@rcompat/type").Dict;
+    error: (x: unknown, error?: Error | string) => Error;
+    false: (x: unknown, error?: Error | string) => false;
+    finite: (x: unknown, error?: Error | string) => number | bigint;
+    int: (x: unknown, error?: Error | string) => number | bigint;
+    map: (x: unknown, error?: Error | string) => Map<unknown, unknown>;
+    nan: (x: unknown, error?: Error | string) => number;
+    newable: (x: unknown, error?: Error | string) => Newable;
+    null: (x: unknown, error?: Error | string) => null;
+    nullish: (x: unknown, error?: Error | string) => import("@rcompat/type").Nullish;
+    object: (x: unknown, error?: Error | string) => object;
+    promise: (x: unknown, error?: Error | string) => Promise<unknown>;
+    regexp: (x: unknown, error?: Error | string) => RegExp;
+    safeint: (x: unknown, error?: Error | string) => number;
+    set: (x: unknown, error?: Error | string) => Set<unknown>;
+    true: (x: unknown, error?: Error | string) => true;
+    uint: (x: unknown, error?: Error | string) => number | bigint;
+    url: (x: unknown, error?: Error | string) => URL;
+    empty: <T>(x: T, error?: Error | string) => T;
+    nonempty: <T>(x: T, error?: Error | string) => T;
+    defined: <T>(x: T, error?: Error | string) => NonNullable<T>;
+    instance: <T extends Newable>(x: unknown, N: T, error?: Error | string) => InstanceType<T>;
+    uuid: (x: unknown, error?: Error | string) => string;
+};
+export default _default;
+//# sourceMappingURL=is.d.ts.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"uint.d.ts","sourceRoot":"","sources":["../../../src/private/spec/uint.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,YAAY,MAAM,eAAe,CAAC;AAC9C,OAAO,KAAK,QAAQ,MAAM,WAAW,CAAC;yBAGtB,CAAC,SAAS,YAAY,EACpC,GAAG,QAAQ,CAAC,CAAC,CAAC,EAAE,KAAK,MAAM,EAAE,KAAK,MAAM;AAD1C,wBAmFE"}

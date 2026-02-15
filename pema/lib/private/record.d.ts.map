@@ -1,0 +1,1 @@
+{"version":3,"file":"record.d.ts","sourceRoot":"","sources":["../../src/private/record.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,MAAM,SAAS,CAAC;AAClC,OAAO,UAAU,MAAM,aAAa,CAAC;AACrC,OAAO,KAAK,aAAa,MAAM,gBAAgB,CAAC;AAEhD;;EAEE;yBAEA,KAAK,CAAC,GAAG,SAAS,aAAa,EAC/B,KAAK,CAAC,KAAK,SAAS,MAAM,CAAC,OAAO,CAAC,EACnC,GAAG,GAAG,EAAE,GAAG,KAAK;AAHlB,wBAG4C"}

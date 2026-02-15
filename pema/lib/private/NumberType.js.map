@@ -1,0 +1,1 @@
+{"version":3,"file":"NumberType.js","sourceRoot":"","sources":["../../src/private/NumberType.ts"],"names":[],"mappings":"AAAA,OAAO,SAAS,MAAM,YAAY,CAAC;AAEnC,OAAO,WAAW,MAAM,cAAc,CAAC;AACvC,OAAO,MAAM,MAAM,aAAa,CAAC;AAEjC,MAAM,CAAC,OAAO,OAAO,UACnB,SAAQ,WAAoC;IAC5C,CAAC,SAAS,CAAC,GAAG,MAAM,CAAC;IAErB,IAAI,IAAI;QACN,OAAO,QAAiB,CAAC;IAC3B,CAAC;CACF"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"biguint.d.ts","sourceRoot":"","sources":["../../../src/private/spec/biguint.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,eAAe,MAAM,kBAAkB,CAAC;AACpD,OAAO,KAAK,WAAW,MAAM,cAAc,CAAC;yBAK5B,CAAC,SAAS,eAAe,EACvC,GAAG,WAAW,CAAC,CAAC,CAAC,EAAE,KAAK,MAAM,EAAE,KAAK,MAAM;AAD7C,wBAmFE"}

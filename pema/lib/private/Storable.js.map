@@ -1,0 +1,1 @@
+{"version":3,"file":"Storable.js","sourceRoot":"","sources":["../../src/private/Storable.ts"],"names":[],"mappings":"AACA,OAAO,MAAM,MAAM,SAAS,CAAC;AAG7B,MAAM,CAAC,OAAO,OAAgB,QAC5B,SAAQ,MAAe;IAIvB,MAAM,CAAC,SAAS,CAAgC,CAA2B;QACzE,OAAO,EAAE,IAAI,EAAE,CAAC,CAAC,IAAI,EAAE,QAAQ,EAAE,CAAC,CAAC,QAAQ,EAAE,CAAC;IAChD,CAAC;CACF"}
