@@ -1,1 +1,0 @@
-{"version":3,"file":"Partialable.d.ts","sourceRoot":"","sources":["../../src/private/Partialable.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,MAAM,SAAS,CAAC;AAClC,OAAO,KAAK,EAAE,IAAI,EAAE,MAAM,eAAe,CAAC;AAE1C,KAAK,WAAW,GAAG,IAAI,CAAC,MAAM,CAAC,OAAO,CAAC,CAAC,CAAC;AAEzC,YAAY,EAAE,WAAW,IAAI,OAAO,EAAE,CAAC"}

@@ -1,1 +1,0 @@
-{"version":3,"file":"SchemaError.js","sourceRoot":"","sources":["../../src/private/SchemaError.ts"],"names":[],"mappings":"AAAA,OAAO,IAAI,MAAM,mBAAmB,CAAC;AAErC,MAAM,CAAC,OAAO,OAAO,WAAY,SAAQ,KAAK;IAC5C,YAAY,OAAe,EAAE,GAAG,MAAiB;QAC/C,KAAK,CAAC,IAAI,CAAC,OAAO,EAAE,GAAG,MAAM,CAAC,CAAC,CAAC;IAClC,CAAC;CACF;AAAA,CAAC"}

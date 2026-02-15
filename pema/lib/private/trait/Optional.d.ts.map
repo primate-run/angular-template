@@ -1,1 +1,0 @@
-{"version":3,"file":"Optional.d.ts","sourceRoot":"","sources":["../../../src/private/trait/Optional.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,YAAY,MAAM,eAAe,CAAC;AAC9C,OAAO,MAAM,MAAM,SAAS,CAAC;AAE7B,MAAM,CAAC,OAAO,CAAC,QAAQ,OAAO,aAAc,SAAQ,MAAM,CAAC,OAAO,CAAC;IACjE;;;;MAIE;IACF,QAAQ,CAAC,QAAQ,IAAI,YAAY,CAAC,IAAI,CAAC;CACxC"}

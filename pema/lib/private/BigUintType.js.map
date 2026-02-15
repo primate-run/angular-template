@@ -1,1 +1,0 @@
-{"version":3,"file":"BigUintType.js","sourceRoot":"","sources":["../../src/private/BigUintType.ts"],"names":[],"mappings":"AACA,OAAO,MAAM,MAAM,gBAAgB,CAAC;AACpC,OAAO,SAAS,MAAM,YAAY,CAAC;AACnC,OAAO,WAAW,MAAM,cAAc,CAAC;AAGvC,MAAM,CAAC,OAAO,OAAO,WACnB,SAAQ,WAAqC;IAE7C,CAAC,SAAS,CAAC,GAAG,MAAM,CAAC;IAErB,IAAI,IAAI;QACN,OAAO,QAAQ,CAAC;IAClB,CAAC;CACF"}

@@ -1,1 +1,0 @@
-{"version":3,"file":"Issue.d.ts","sourceRoot":"","sources":["../../src/private/Issue.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,eAAe,CAAC;AAEjD,MAAM,CAAC,OAAO,WAAW,KAAK;IAC5B,QAAQ,CAAC,OAAO,EAAE,MAAM,CAAC;IACzB,QAAQ,CAAC,IAAI,EAAE,WAAW,CAAC;CAC5B"}

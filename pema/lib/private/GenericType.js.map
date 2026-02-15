@@ -1,1 +1,0 @@
-{"version":3,"file":"GenericType.js","sourceRoot":"","sources":["../../src/private/GenericType.ts"],"names":[],"mappings":"AAAA,OAAO,MAAM,MAAM,SAAS,CAAC;AAG7B,MAAM,CAAC,OAAO,OAAgB,WAC5B,SAAQ,MAAgB;IAGxB,IAAI,IAAI;QACN,OAAO,SAA4B,CAAC;IACtC,CAAC;IAED,IAAI,IAAI;QACN,OAAO,SAA4B,CAAC;IACtC,CAAC;CACF"}
