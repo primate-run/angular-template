@@ -11,16 +11,15 @@
     "test:bun": "bun x --bun primate test"
   },
   "dependencies": {
-    "@angular/common": "^21.0.0",
-    "@angular/compiler": "^21.0.0",
-    "@angular/core": "^21.0.0",
-    "@angular/forms": "^21.0.0",
-    "@angular/platform-browser": "^21.0.0",
-    "@primate/angular": "^0.5.0",
-    "@primate/sqlite": "^0.6.0",
-    "@rcompat/assert": "^0.3.1",
-    "@rcompat/fs": "^0.22.3",
-    "pema": "^0.4.0",
-    "primate": "^0.35.1"
+    "@angular/common": "^21.1.4",
+    "@angular/compiler": "^21.1.4",
+    "@angular/core": "^21.1.4",
+    "@angular/forms": "^21.1.4",
+    "@angular/platform-browser": "^21.1.4",
+    "@primate/angular": "^0.6.0",
+    "@primate/sqlite": "^0.7.0",
+    "@rcompat/assert": "^0.6.0",
+    "pema": "^0.5.0",
+    "primate": "^0.36.0"
   }
 }
